@@ -1,0 +1,14 @@
+{
+  "78": {
+    "name": "Boomerang Bro",
+    "build_function": "0x8032A1F0",
+    "type": "enemy",
+    "address": "0x81234567"
+  },
+  "55": {
+    "name": "Hammer Bro",
+    "build_function": "0x8031F2A0",
+    "type": "enemy",
+    "address": "0x81230000"
+  }
+}
