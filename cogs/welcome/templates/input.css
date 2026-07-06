@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@plugin "daisyui";
+
+/* Font */
+@font-face {
+    font-family: "MarioFont";
+    src: url("./MARIO_Font_v3_Solid.otf") format("opentype");
+}
+
+* {
+    font-family: "MarioFont";
+}
